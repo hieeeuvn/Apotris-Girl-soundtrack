@@ -23,8 +23,13 @@ If you have only an Android device
 Tested with [Apotris v4.1.0](<https://akouzoukos.com/apotris/downloads>). Other versions are not yet confirmed.
 # q&a
 - Q: It seems like my music folder is corrupted.
+  
   A: Just copy the one from your backup to your game
+  
 - Q: My old savestate not work after the setup
+
   A: After the setup, you game can only work with battery save file (.sav or .srm).
+  
   Q: So how can I fix it?
+  
   A: Copy the game files from your backup and then copy them to the location where you have the game ROM you're using to play. Restart the game, adjust a setting, and then exit to the menu. A message will appear saying "save changes?" and you just need to click save. Then repeat the setup process, launch the game but don't load the savestate, play a round, save the savestate, and you're done.
