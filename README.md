@@ -33,3 +33,6 @@ Tested with [Apotris v4.1.0](<https://akouzoukos.com/apotris/downloads>). Other 
   Q: So how can I fix it?
   
   A: Copy the game files from your backup and then copy them to the location where you have the game ROM you're using to play. Restart the game, adjust a setting, and then exit to the menu. A message will appear saying "save changes?" and you just need to click save. Then repeat the setup process, launch the game but don't load the savestate, play a round, save the savestate, and you're done.
+# Credits:
+@hieeeuvn - own this repo
+@ akouzoukos - author of the game
