@@ -8,7 +8,7 @@ An unofficial voice modification pack for **Apotris** (the GBA homebrew game by 
 # Setup:
 - 1, Do a backup for your game (with all the Apotris' subfolder)
 
-- 2, Replace the subfolder from the game with the one from [this release](<https://github.com/hieeeuvn/Apotris-Girl-soundtrack/releases>) (soon)
+- 2, Replace the subfolder from the game with the one from [release section](<https://github.com/hieeeuvn/Apotris-Girl-soundtrack/releases>) (soon)
 
 - 3, Run the `WINDOWS_build.bat file` (if you are on Windows) or `LINUX_or_MAC_build.sh` file (if you are on Linux or Mac)
 
