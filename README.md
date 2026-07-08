@@ -1,4 +1,4 @@
-# Apotris-Girl-soundtrack
+# Apotris-Girl-Voicepack
 An unofficial voice modification pack for **Apotris** (the GBA homebrew game by **akouzoukos**), replacing female voice sound effects (SFX) for game events.
 # Before using this:
 - This is a fan-made project. All rights to the original game **Apotris** and its assets belong to **akouzoukos**.
