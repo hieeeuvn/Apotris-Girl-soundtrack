@@ -5,6 +5,8 @@ An unofficial voice modification pack for **Apotris** (the GBA homebrew game by 
 - This is a fan-made project. All rights to the original game **Apotris** and its assets belong to **akouzoukos**.
 
 - Voice clips are intended for non-commercial, personal use on retro handheld devices or emulators.
+# Media about:
+(place holder)
 # Setup:
 - 1, Do a backup for your game (with all the Apotris' subfolder)
 
